@@ -40,13 +40,13 @@ Sebelum menjalankan aplikasi, pastikan Anda memiliki:
    Jika Anda menggunakan Git, Anda dapat mengkloning repositori dengan perintah:
 
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/Athallah1234/Translator.git
    ```
 
 2. **Navigasi ke Direktori Aplikasi**
 
    ```bash
-   cd repo-name
+   cd Translator
    ```
 
 3. **Instal Dependensi**
@@ -62,7 +62,7 @@ Sebelum menjalankan aplikasi, pastikan Anda memiliki:
    Setelah semua langkah di atas selesai, Anda dapat menjalankan aplikasi dengan perintah:
 
    ```bash
-   python translator_app.py
+   python run.py
    ```
 
 ## FAQ
